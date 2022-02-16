@@ -1,0 +1,1 @@
+This it to model the magnetic field and field gradient of a bar magnet.
